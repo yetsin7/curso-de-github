@@ -3,9 +3,35 @@
 > Repositorio gratuito y abierto para aprender Git y GitHub desde absolutamente cero hasta nivel profesional.
 > Sin cursos de pago. Sin registros. Solo abre VS Code, abre la terminal y empieza.
 
+🔗 Repositorio en GitHub: [https://github.com/yetsin7/curso-de-github](https://github.com/yetsin7/curso-de-github)
+
 ---
 
-## ¿Para quien es esto?
+## 🇳🇮 Para estudiantes de Nicaragua (y de toda Latinoamérica)
+
+Si estás en Nicaragua y quieres aprender a programar, este libro es para ti.
+No importa si vives en Managua, León, Estelí, Matagalpa, Granada, Bluefields o en una comunidad rural sin internet estable. No importa si estudias en una universidad, en un instituto técnico, o si estás aprendiendo por tu cuenta desde tu casa. Si tienes una computadora y ganas de aprender, ya tienes lo necesario para empezar.
+
+Este material también funciona para estudiantes y autodidactas de Honduras, El Salvador, Guatemala, Costa Rica, Panamá, México, Colombia, Venezuela, Perú, Argentina, Chile, y cualquier país donde se hable español. La meta es que el idioma y el costo dejen de ser una barrera para aprender tecnología.
+
+---
+
+## 💡 ¿Por qué existe este libro?
+
+En Nicaragua hay muchísimo talento, pero pocos recursos accesibles para aprender programación de manera seria y ordenada. Los cursos en línea suelen ser caros, muchos están solo en inglés, y casi todos exigen registro, pago o internet permanente.
+
+Este libro nace con una misión clara:
+
+- **Aumentar el número de programadores en Nicaragua.**
+- **Democratizar el acceso al conocimiento técnico** en español.
+- **Demostrar que se puede aprender sin pagar miles de córdobas** en cursos.
+- **Apoyar al estudiante que no tiene internet 24/7** — una vez clonado, este repositorio funciona offline.
+
+Aquí no se pide tarjeta de crédito, ni correo, ni suscripción. Solo se pide algo: que estudies con disciplina y que, si te sirve, lo compartas con otra persona que también quiera aprender.
+
+---
+
+## 🎯 ¿Para quién es esto?
 
 Para **cualquier persona** que quiera aprender a usar Git y GitHub como un profesional.
 No necesitas experiencia previa con control de versiones. Solo necesitas:
@@ -14,17 +40,27 @@ No necesitas experiencia previa con control de versiones. Solo necesitas:
 - ✅ Tener un **navegador web** (Chrome, Firefox, Edge, etc.)
 - ✅ Ganas de aprender
 
-Al terminar este libro deberias entender:
+Al terminar este libro deberías entender:
 
-- como Git guarda historial;
-- por que Git no es lo mismo que GitHub;
-- como colaborar sin pisar trabajo ajeno;
-- como viajan los cambios entre tu computadora y la nube;
-- como funciona un flujo profesional con ramas, PRs y automatizacion.
+- cómo Git guarda historial;
+- por qué Git no es lo mismo que GitHub;
+- cómo colaborar sin pisar el trabajo de otras personas;
+- cómo viajan los cambios entre tu computadora y la nube;
+- cómo funciona un flujo profesional con ramas, PRs y automatización.
 
 ---
 
-## ¿Como usar este repositorio?
+## ✅ ¿Qué hace especial a este recurso?
+
+- **100 % gratuito.** Nadie te va a cobrar nada, nunca.
+- **Sin registro.** No necesitas crear cuenta en ninguna plataforma para usar este libro.
+- **Funciona offline.** Una vez que clones el repositorio en tu computadora, puedes estudiar sin internet.
+- **En español claro y natural**, pensado para que cualquier persona lo entienda.
+- **Comentado paso a paso**, para que aprendas el porqué de cada comando, no solo a copiarlo.
+
+---
+
+## 🚀 ¿Cómo usar este repositorio?
 
 1. Descarga o clona este repositorio en tu computadora
 2. Ábrelo con VS Code (`Archivo → Abrir Carpeta`)
@@ -33,23 +69,23 @@ Al terminar este libro deberias entender:
 5. **Lee cada línea** — todo está comentado para que entiendas el porqué
 6. Ejecuta los comandos en tu terminal uno por uno (no ejecutes el archivo completo)
 
-> **Tip:** Los archivos `.sh` estan pensados para leerse primero y ejecutarse
-> linea por linea. La idea es entender el efecto de cada comando.
+> **Tip:** Los archivos `.sh` están pensados para leerse primero y ejecutarse
+> línea por línea. La idea es entender el efecto de cada comando.
 
-## Que pasa realmente cuando usas Git
+## 🧠 Qué pasa realmente cuando usas Git
 
-Git no "sube archivos magicos". Git crea una base de datos local en la carpeta
+Git no "sube archivos mágicos". Git crea una base de datos local en la carpeta
 oculta `.git` donde guarda objetos, historial, referencias y cambios. GitHub, en
-cambio, aloja repositorios remotos y herramientas de colaboracion sobre ese
+cambio, aloja repositorios remotos y herramientas de colaboración sobre ese
 historial.
 
-Cuando haces `git add`, `git commit`, `git push` o `git pull`, estas moviendo y
-registrando informacion de formas distintas. Entender eso te hace mucho mas
+Cuando haces `git add`, `git commit`, `git push` o `git pull`, estás moviendo y
+registrando información de formas distintas. Entender eso te hace mucho más
 seguro usando Git.
 
 ---
 
-## Instalar Git (si aún no lo tienes)
+## 🛠️ Instalar Git (si aún no lo tienes)
 
 ### Windows
 1. Ve a [https://git-scm.com/downloads](https://git-scm.com/downloads)
@@ -76,7 +112,7 @@ Si ves algo como `git version 2.x.x`, estás listo.
 
 ---
 
-## Estructura del libro
+## 📚 Estructura del libro
 
 ### 🟢 Nivel Básico — Primeros pasos con Git y GitHub
 
@@ -117,7 +153,7 @@ Si ves algo como `git version 2.x.x`, estás listo.
 
 ---
 
-## Consejos para aprender bien
+## 🎓 Consejos para aprender bien
 
 - **No copies y pegues.** Escribe los comandos tú mismo, aunque sea lento al principio.
 - **Ejecuta cada comando** y observa qué pasa en tu terminal.
@@ -127,11 +163,25 @@ Si ves algo como `git version 2.x.x`, estás listo.
 
 ---
 
-## Licencia
+## 🤝 Cómo apoyar este proyecto
+
+Este libro es gratuito y siempre lo será. Si te ha sido útil, hay maneras sencillas de ayudar a que llegue a más personas en Nicaragua y el resto de Latinoamérica:
+
+- ⭐ **Dale una estrella al repositorio** en GitHub. Cada estrella ayuda a que más estudiantes lo encuentren.
+- 📣 **Compártelo** con amigos, compañeros de clase, profesores o cualquier persona que quiera aprender a programar.
+- 🐛 **Abre un issue** si encuentras un error, una explicación confusa o algo que se puede mejorar.
+- 🔧 **Envía un pull request** si quieres aportar correcciones, mejoras, ejemplos o nuevos temas.
+- 💬 **Recomienda este recurso** en tu universidad, instituto, bootcamp o comunidad técnica.
+
+Repositorio: [https://github.com/yetsin7/curso-de-github](https://github.com/yetsin7/curso-de-github)
+
+---
+
+## 📄 Licencia
 
 Este proyecto es **completamente gratuito y libre**.
 Puedes usarlo, compartirlo, modificarlo y distribuirlo sin restricciones.
 
 ---
 
-*Hecho con ❤️ para que cualquier persona pueda aprender Git y GitHub.*
+*Hecho con ❤️ desde Nicaragua, para que cualquier persona pueda aprender Git y GitHub.*
