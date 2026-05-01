@@ -5,6 +5,11 @@
 
 🔗 Repositorio en GitHub: [https://github.com/yetsin7/Curso-de-GitHub](https://github.com/yetsin7/Curso-de-GitHub)
 
+## Documentacion de referencia
+
+Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para practicar
+este curso acompanado por la referencia oficial de Git y GitHub.
+
 ---
 
 ## 🇳🇮 Para estudiantes de Nicaragua (y de toda Latinoamérica)
