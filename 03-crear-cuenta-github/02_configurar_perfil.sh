@@ -85,7 +85,7 @@ cat > README.md << 'EOF'
 ![Tus stats de GitHub](https://github-readme-stats.vercel.app/api?username=tu-username&show_icons=true&theme=radical)
 
 ---
-*Este README fue creado como parte del Libro de GitHub*
+*Este README fue creado como parte del Curso de GitHub*
 EOF
 
 # Paso 3: Agregar y hacer commit

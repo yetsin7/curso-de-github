@@ -1,4 +1,4 @@
-# 📘 Libro de GitHub — De cero a PRO
+# 📘 Curso de GitHub — De cero a PRO
 
 > Repositorio gratuito y abierto para aprender Git y GitHub desde absolutamente cero hasta nivel profesional.
 > Sin cursos de pago. Sin registros. Solo abre VS Code, abre la terminal y empieza.
