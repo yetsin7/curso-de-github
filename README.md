@@ -7,7 +7,7 @@
 
 ## Documentacion de referencia
 
-Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para practicar
+Consulta [Documentación-GitHub.md](./Documentación-GitHub.md) para practicar
 este curso acompanado por la referencia oficial de Git y GitHub.
 
 ---
