@@ -3,7 +3,7 @@
 > Repositorio gratuito y abierto para aprender Git y GitHub desde absolutamente cero hasta nivel profesional.
 > Sin cursos de pago. Sin registros. Solo abre VS Code, abre la terminal y empieza.
 
-🔗 Repositorio en GitHub: [https://github.com/yetsin7/curso-de-github](https://github.com/yetsin7/curso-de-github)
+🔗 Repositorio en GitHub: [https://github.com/yetsin7/Curso-de-GitHub](https://github.com/yetsin7/Curso-de-GitHub)
 
 ---
 
@@ -173,7 +173,7 @@ Este libro es gratuito y siempre lo será. Si te ha sido útil, hay maneras senc
 - 🔧 **Envía un pull request** si quieres aportar correcciones, mejoras, ejemplos o nuevos temas.
 - 💬 **Recomienda este recurso** en tu universidad, instituto, bootcamp o comunidad técnica.
 
-Repositorio: [https://github.com/yetsin7/curso-de-github](https://github.com/yetsin7/curso-de-github)
+Repositorio: [https://github.com/yetsin7/Curso-de-GitHub](https://github.com/yetsin7/Curso-de-GitHub)
 
 ---
 
